@@ -15,6 +15,7 @@ function draw_table(){
     $.getJSONuncached("/get/html")
 };
 
+//selecting an option, then the tabl goes up
 function select_row(){
     $("#menuTable tbody tr[id]").click(function(){
         $(".selected").removeClass("selected");
@@ -25,6 +26,7 @@ function select_row(){
     });
 };
 
+//form table after deleting a row
 function delete_row(sec, ent){
     $("#delete").click(function (){
         $.ajax({
