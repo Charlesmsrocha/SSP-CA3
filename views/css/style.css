@@ -1,0 +1,30 @@
+body {
+    margin-bottom: 60px;
+}
+
+table {
+    width:100%;
+}
+
+table, th, td {
+    border-collapse: collapse;
+    border: 1px solid #ced4da;
+    padding: 0.5rem;
+}
+
+td, th {
+    text-align: left;
+}
+
+td:nth-child(1), td:nth-child(3){
+    text-align: center;
+}
+
+th {
+    font-weight: bold;
+}
+
+.selected {
+    background-color: #dc3545;
+    color: #FFF;
+}
