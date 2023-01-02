@@ -1,73 +1,87 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menu>
-  <category name="Coffee">
+  <category name="Japan">
     <item>
-      <listing>Espresso</listing>
-      <price>3.10</price>
+      <listing>Bento Box</listing>
+      <price>15</price>
     </item>
     <item>
-      <listing>Latte</listing>
-      <price>3.50</price>
+      <listing>Sushi combo</listing>
+      <price>11</price>
     </item>
-    <item decaf="true">
-      <listing>Americano</listing>
-      <price>3.20</price>
+    <item>
+      <listing>Temaki</listing>
+      <price>7</price>
     </item>
   </category>
-  <category name="Frappe">
+  <category name="Chinese">
     <item>
-      <listing>Salted Caramel Frappé</listing>
-      <price>4.50</price>
+      <listing>Chow Mein</listing>
+      <price>9</price>
     </item>
     <item>
-      <listing>Pumpkin Spice Frappé</listing>
-      <price>5.00</price>
+      <listing>Kung Pao Chicken</listing>
+      <price>11</price>
     </item>
-    <item decaf="true">
-      <listing>Mint Chocolate Frappé</listing>
-      <price>5.00</price>
+    <item>
+      <listing>Ma Po Tofu</listing>
+      <price>7.50</price>
     </item>
   </category>
-  <category name="Iced Coffee">
+  <category name="Mexican">
     <item>
-      <listing>Iced Toasted Vanilla</listing>
-      <price>4.00</price>
+      <listing>Burrito</listing>
+      <price>9</price>
     </item>
     <item>
-      <listing>Iced Shaken Espresso</listing>
-      <price>3.80</price>
+      <listing>Chilaquiles</listing>
+      <price>7.50</price>
     </item>
-    <item decaf="true">
-      <listing>Iced Flat White</listing>
-      <price>4.10</price>
+    <item>
+      <listing>Tacos Al Pastor</listing>
+      <price>11</price>
     </item>
   </category>
-  <category name="Tea">
+  <category name="Italian">
     <item>
-      <listing>Mint</listing>
-      <price>2.50</price>
+      <listing>Pizza</listing>
+      <price>9</price>
     </item>
     <item>
-      <listing>Green</listing>
-      <price>2.70</price>
+      <listing>Pasta</listing>
+      <price>13</price>
     </item>
-    <item decaf="true">
-      <listing>Breakfast</listing>
-      <price>2.50</price>
+    <item>
+      <listing>Lasagna</listing>
+      <price>14</price>
     </item>
   </category>
-  <category name="Deserts">
+  <category name="Greek">
     <item>
-      <listing>Chocolate Brownie</listing>
-      <price>4.50</price>
+      <listing>Greek Salad</listing>
+      <price>11</price>
     </item>
     <item>
-      <listing>Vanila Cheescake</listing>
-      <price>4.50</price>
+      <listing>Taramasalata</listing>
+      <price>9</price>
     </item>
     <item>
-      <listing>Carrot Cake</listing>
-      <price>5.00</price>
+      <listing>Tiropitakia</listing>
+      <price>7</price>
+    </item>
+  </category>
+  <category name="American">
+    <item>
+      <listing>Bacon Cheeseburger</listing>
+      <price>10</price>
+    </item>
+    <item>
+      <listing>Bucket Fried Chicken</listing>
+      <price>9</price>
+    </item>
+    <item>
+      <listing>Barbecue Ribs</listing>
+      <price>15</price>
     </item>
   </category>
 </menu>
